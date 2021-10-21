@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👋 I’m @Bardioc26
+- 🌱 I’m currently learning GoLang, voice controlling, SmartHome
+- 👀 I’m interested in P&P RPGs
+
 <!--
 **Bardioc26/Bardioc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
